@@ -1,0 +1,1 @@
+This webpage describes Genghis Khan, an emperor who had many descendants, and includes a table with just a few of the emperors that descended from him. I added a rule to the code that targets only the elements that have the 'emperor' class and are in the table. The rule changes the background color of those table cells.
